@@ -1,0 +1,12 @@
+
+.btn:hover {
+    transform: scale(1.1);
+    font-weight: bolder;
+}
+
+.welcomeMessage {
+    font-size: 1.5em;
+}
+
+
+    

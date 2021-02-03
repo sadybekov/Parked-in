@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&display=swap');
+
+.barColor {
+    background-color:#75E6DA;
+}
+
+.linkText {
+    color: black;
+}
+
+.linkText:hover {
+    color: black;
+    font-weight: bold;
+    
+}
+
+.legalTitle {
+    color: rgb(151, 71, 6);
+    font-size: 1.4em;
+    font-family: "IM Fell English SC";    
+
+}
+
+.employeeSign {
+    color: black;
+    font-family: "Courier";
+    font-size: 0.4em;
+    padding-left: 10px;
+}
